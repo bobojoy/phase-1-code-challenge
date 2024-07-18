@@ -46,7 +46,7 @@ To use this repo, follow these steps:
 
 2.  Clone the repository by running the following command:
 
-        git clone:https://github.com/bobojoy/codechallenge2.git
+        git clone:
 
 3.  Change directory to the repo folder:
 
@@ -72,7 +72,7 @@ This project was contributed to by:
 - [Joy Wambui](https://github.com/bobojoy/)
 
 ### Interactive Shopping List reference 
-```https://bobojoy.github.io/codechallenge2/```
+``````
 ## License
 
 [![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
